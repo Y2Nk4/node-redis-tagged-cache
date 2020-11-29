@@ -81,4 +81,3 @@ class RedisTaggedCache {
 }
 
 module.exports = RedisTaggedCache
-export default RedisTaggedCache
