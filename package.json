@@ -1,0 +1,23 @@
+{
+  "name": "redistaggedcache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y2Nk4/node-RedisTaggedCache.git"
+  },
+  "author": "Y2Nk4<me@y2nk4.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y2Nk4/node-RedisTaggedCache/issues"
+  },
+  "homepage": "https://github.com/Y2Nk4/node-RedisTaggedCache#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "util-promisifyall": "^1.0.6"
+  }
+}
