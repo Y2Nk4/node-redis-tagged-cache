@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Y2Nk4/node-RedisTaggedCache.git"
+    "url": "git+https://github.com/Y2Nk4/node-redis-tagged-cache.git"
   },
   "author": "Y2Nk4<me@y2nk4.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Y2Nk4/node-RedisTaggedCache/issues"
+    "url": "https://github.com/Y2Nk4/node-redis-tagged-cache/issues"
   },
-  "homepage": "https://github.com/Y2Nk4/node-RedisTaggedCache#readme",
+  "homepage": "https://github.com/Y2Nk4/node-redis-tagged-cache#readme",
   "dependencies": {
     "lodash": "^4.17.20",
     "util-promisifyall": "^1.0.6"
