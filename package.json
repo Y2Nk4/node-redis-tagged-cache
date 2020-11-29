@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Y2Nk4/node-RedisTaggedCache.git"
   },
   "author": "Y2Nk4<me@y2nk4.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Y2Nk4/node-RedisTaggedCache/issues"
   },
