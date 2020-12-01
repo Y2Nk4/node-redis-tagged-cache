@@ -1,5 +1,5 @@
-import promisifyAll from 'util-promisifyall'
-import _ from 'lodash'
+let promisifyAll = require('util-promisifyall')
+let _ = require('lodash')
 let Tag = require('./Tag')
 
 class RedisTaggedCache {
